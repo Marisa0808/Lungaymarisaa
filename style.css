@@ -1,0 +1,27 @@
+body, h1{
+  background: cyan;
+  text-align: center;
+    font-style: italic;
+  } 
+  button:hover{
+  font-size: 1.2em;
+  background-color: lightblue;
+  font-variant: italic;
+  color: red;
+  align:center;
+  }
+  input::placeholder{
+  background-color: lightblue;
+  padding: 20px;
+  }
+  input:hover{
+  background-color: lightblue;
+  font-style: italic;
+  }
+  a:link{
+  color: purple;
+  }  	
+  a:hover {
+  color: red;
+  font-size: 1.1em;
+  }
